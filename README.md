@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Erik Vieira
 
+💻 Flutter Specialist
 🎓 Student of Systems Analysis and Development  
-💻 Flutter Developer  
 🚀 Passionate about technology and innovation  
 
 ## 🛠️ Technologies I use:
