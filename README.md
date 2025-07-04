@@ -10,8 +10,6 @@
 - Firebase  
 - RESTful APIs  
 
-## 📈 GitHub Stats:
-![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikvieirafer&show_icons=true&theme=dracula)
 
 ## 📫 Contact:
 No LinkedIn at the moment — access is restricted, trying to recover it  
