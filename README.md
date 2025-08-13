@@ -1,10 +1,10 @@
 # Olá! Eu sou o Erik Vieira  
 
 **Flutter Specialist**  
-**Clean Architecture & S.O.L.I.D. Enthusiast**  
+**Clean Architecture & S.O.L.I.D.**  
 Apaixonado por criar soluções escaláveis e eficientes.  
 
-Sou desenvolvedor freelancer full-stack, unindo **Flutter** no front-end e **Python/Django REST** no back-end para entregar softwares de alta qualidade. Minha missão é transformar ideias em produtos digitais que realmente resolvem problemas de negócio.  
+Sou desenvolvedor full-stack, unindo **Flutter** no front-end e **Python/Django REST** no back-end para entregar softwares de alta qualidade. Minha missão é transformar ideias em produtos digitais que realmente resolvem problemas de negócio.  
 
 ---
 
