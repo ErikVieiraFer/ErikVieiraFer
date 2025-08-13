@@ -1,23 +1,23 @@
-# 👋 Olá! Eu sou o Erik Vieira  
+# Olá! Eu sou o Erik Vieira  
 
-💻 **Flutter Specialist**  
-🛠 **Clean Architecture & S.O.L.I.D. Enthusiast**  
-🚀 Apaixonado por criar soluções escaláveis e eficientes.  
+**Flutter Specialist**  
+**Clean Architecture & S.O.L.I.D. Enthusiast**  
+Apaixonado por criar soluções escaláveis e eficientes.  
 
 Sou desenvolvedor freelancer full-stack, unindo **Flutter** no front-end e **Python/Django REST** no back-end para entregar softwares de alta qualidade. Minha missão é transformar ideias em produtos digitais que realmente resolvem problemas de negócio.  
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 | Projeto | Descrição | Tecnologias | Links |
 |---|---|---|---|
-| 📱 **App de Gestão (Freelance)** | Aplicativo full-stack, **offline-first**, para controle de estoque. | `Flutter` `Dart` `Python` `Django REST` `SQLite` `Clean Architecture` `BLoC` | *Repositório privado (em respeito à LGPD)* |
-| 🌐 **Website (Freelance)** | Site institucional responsivo, otimizado para performance. | `HTML5` `CSS3` `JavaScript` | [Acessar Site](https://fsresiliencia.com.br/) |
-| ♟️ **BMI Calculator** | Aplicativo simples desenvolvido em Flutter para cálculo de IMC, utilizado para estudo de gerenciamento de estado. | `Flutter` `Dart` | [Repositório](https://github.com/ErikVieiraFer/imc_state_manager) |
+| **App de Gestão (Freelance)** | Aplicativo full-stack, **offline-first**, para controle de estoque. | `Flutter` `Dart` `Python` `Django REST` `SQLite` `Clean Architecture` `BLoC` | *Repositório privado (em respeito à LGPD)* |
+| **Website (Freelance)** | Site institucional responsivo, otimizado para performance. | `HTML5` `CSS3` `JavaScript` | [Acessar Site](https://fsresiliencia.com.br/) |
+| **BMI Calculator** | Aplicativo simples desenvolvido em Flutter para cálculo de IMC, utilizado para estudo de gerenciamento de estado. | `Flutter` `Dart` | [Repositório](https://github.com/ErikVieiraFer/imc_state_manager) |
 
 ---
 
-## 🛠 Stack de Tecnologias
+## Stack de Tecnologias
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -30,13 +30,7 @@ Sou desenvolvedor freelancer full-stack, unindo **Flutter** no front-end e **Pyt
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas de Erik no GitHub](https://github-readme-stats.vercel.app/api?username=ErikVieiraFer&show_icons=true&theme=dracula&hide_border=true&count_private=true)  
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikVieiraFer&layout=compact&theme=dracula&hide_border=true)](https://github.com/ErikVieiraFer)
-
----
-
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Erik%20Vieira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erik-vieira-bb3298332/)  
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-purple?style=for-the-badge&logo=flutter)](https://erikvieirafer.github.io/portifolio/)  
-📧 **Email:** erik.vieiradev@hotmail.com
+**Email:** erik.vieiradev@hotmail.com
