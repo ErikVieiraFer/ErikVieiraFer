@@ -45,15 +45,6 @@ Atuo como desenvolvedor full-stack, combinando **Flutter** no front-end e **Pyth
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikVieiraFer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikVieiraFer&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ## Contato
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-erikvieiradev.com.br-blueviolet?style=for-the-badge&logo=flutter)](https://erikvieiradev.com.br/)
